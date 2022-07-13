@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "LSE",
+    "oncran": true
+  }
+]
